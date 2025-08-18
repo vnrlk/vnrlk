@@ -1,15 +1,13 @@
-## dinheiro e paz 🤟🏻☯
+## seja bem vindo  🤟🏻☯
 
 
-**vnrlk/vnrlk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**vnrlk/vnrlk** 
 
-Here are some ideas to get you started:
+## algumas coisas sobre mim:
 
- - ☯ 
-- 💸 sem dinheiro vc n vive..
-- ☯ oq a escola n ensina eu aprendo na rua
-- 💸 vnrlk so pensa no que ele quer 🤟🏻
-- ☯  vnrlk anti o sistema
-- 💸tipo sedex so emcomenda que os mlk tras pra vc 
-- ☯🤟🏻profiçao 
+ - ☯ meu nome e vinicius 
+- 💸 gosto de programação
+- ☯ gosto de estuda robotica 
+- 💸 e meu sonho e fazer dinheiro com 
+- ☯  vnrlk anti o sistema programação
 -->
