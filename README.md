@@ -8,6 +8,5 @@
  - ☯ meu nome e vinicius 
 - 💸 gosto de programação
 - ☯ gosto de estuda robotica 
-- 💸 e meu sonho e fazer dinheiro com 
-- ☯  vnrlk anti o sistema programação
+- 💸 e meu sonho e fazer dinheiro com programação
 -->
